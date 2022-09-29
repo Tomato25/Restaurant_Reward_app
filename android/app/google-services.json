@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1006756184562",
+    "project_id": "rewardrun-a4a17",
+    "storage_bucket": "rewardrun-a4a17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006756184562:android:f1d639ff91d39ae4ef2b6b",
+        "android_client_info": {
+          "package_name": "com.example.reward_run"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006756184562-tmi4ogki1rspguh9em080b3n6q2e5d4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWso3aQspEOUm-dzMSWVPBNFOChfyjPIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006756184562-tmi4ogki1rspguh9em080b3n6q2e5d4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
